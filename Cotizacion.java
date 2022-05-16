@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Cotizacion {
     //Atributos
-    public int numeroCotizacion;
-    public String descripcion;
-    public double precio;
-    public int porcentaje;
-    public int plazo;
+    private int numeroCotizacion;
+    private String descripcion;
+    private double precio;
+    private int porcentaje;
+    private int plazo;
     
     
         //Constructor Vacio
